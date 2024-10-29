@@ -28,7 +28,7 @@
         "rgb_matrix": true
     },
     "indicators": {
-        "caps_lock": "C9",
+        "caps_lock": "C4",
         "on_state": 0
     },
     "matrix_pins": {
@@ -175,7 +175,7 @@
     "url": "",
     "usb": {
         "device_version": "0.1.0",
-        "force_nkro": true,
+        "force_nkro": false,
         "pid": "0xE484",
         "suspend_wakeup_delay": 1000,
         "vid": "0x342D"

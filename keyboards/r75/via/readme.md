@@ -1,4 +1,4 @@
-# RK839
+# R75
 
 * Keyboard Maintainers:
   * Original Firmware - [sdk66](https://github.com/sdk66)
@@ -10,11 +10,11 @@
 
 Make example for this keyboard (after setting up your build environment):
 
-    make rk/r75:vial
-        
+    make rk/r75:via
+
 Flashing example for this keyboard:
 
-    make rk/r75:vial:flash
+    make rk/r75:via:flash
 
 To reset the board into bootloader mode, do one of the following:
 
