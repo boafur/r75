@@ -1,4 +1,4 @@
-# Royal Kludge R75 VIA
+# Royal Kludge R75 VIA & VIAL
 
 This is a port of [iamdanielv's customization](https://github.com/iamdanielv/kb_rk_r65) of [irfanjmdn's QMK R65 firmware](https://github.com/irfanjmdn/r65) to the R75
 
