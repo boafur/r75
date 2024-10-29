@@ -1,4 +1,4 @@
-# RK839
+# R75
 
 * Keyboard Maintainers:
   * Original Firmware - [sdk66](https://github.com/sdk66)
