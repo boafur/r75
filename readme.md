@@ -15,7 +15,10 @@ The VIA JSON can be found in the [extras folder](https://github.com/mossbed/r75/
 ## VIAL
 
 > [!WARNING]  
-> Due to VIAL not allowing hard-coded tap dance functions, there is no way to go into the bootloader or to clear EEPROM by pressing key combos, like there is in the VIA version. To enter the bootloader, unplug your keyboard, hold escape, and then plug it back in again (this will erase your EEPROM as well). You can also enter the bootloader from within VIAL by going to Security > Enter bootloader.
+> Due to VIAL not allowing hard-coded tap dance functions, there is no way to go into the bootloader or to clear EEPROM by pressing key combos, like there is in the VIA version.
+>
+> To enter the bootloader, unplug your keyboard, hold escape, and then plug it back in again (this will erase your EEPROM as well). You can also enter the bootloader from within VIAL by going to Security > Enter bootloader.
+> 
 > FN+Shift+Q is already set to TD(0), however, this tap dance key does nothing as stated above. This means that all you need to do to restore the bootloader key is assign the Tap Dance 0 key to Reset from within VIAL. Do note that this will be cleared every time the keyboard is flashed with new firmware.
 
 There is a version of this for VIAL in the [vialrgb branch](https://github.com/mossbed/r75/tree/vialrgb), follow the instructions in [irfanjmdn's vialrgb branch](https://github.com/irfanjmdn/r65/tree/vialrgb?tab=readme-ov-file#guide) and replace all occurrences of r65 with r75.
