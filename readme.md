@@ -8,7 +8,7 @@ This also fixes a bug in [sdk66's R75 firmware](https://github.com/hangshengkeji
 
 To use, follow [this guide from irfanjmdn's repo](https://github.com/irfanjmdn/r65/?tab=readme-ov-file#guide) and replace all occurrences of r65 with r75.
 
-The build and flash commands for VIA can be found [here](https://github.com/mossbed/r75/blob/master/keyboards/rk/r75/readme.md).
+The build and flash commands for VIA can be found [here](https://github.com/mossbed/r75/blob/master/keyboards/r75/via/readme.md).
 
 The VIA JSON can be found in the [extras folder](https://github.com/mossbed/r75/blob/master/extras).
 
